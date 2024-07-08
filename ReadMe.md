@@ -85,13 +85,3 @@ This analysis leverages a variety of techniques to extract insights from custome
 
 ---
 
-
-#### Contributing
-
-Feel free to submit issues or pull requests for improvements or additions.
-
----
-
-#### Author
-
-[Reza Sadeghi](https://github.com/xre22zax/)
